@@ -1,0 +1,9 @@
+{
+  "name": "hide-findbar",
+  "fullName": "hide-findbar",
+  "id": "jid1-3aiNbOlv7QC5eQ",
+  "description": "Hides the find bar when you change tabs.",
+  "author": "Dave Camp <dcamp@mozilla.com>",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
